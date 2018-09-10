@@ -20,7 +20,7 @@ import com.company.Oblig1;
 import java.util.*;
 
 public class Oblig1Test {
-    public static void main(String[] args) {
+    public  static void main(String[] args) {
         int antallFeil = 0;
 
         antallFeil += oppgave1();
